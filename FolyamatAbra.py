@@ -1,8 +1,8 @@
 import random
 
-eletkor = 17
+eletkor = 5
 diak = True
-if eletkor < 6:
+if eletkor <= 6:
     print("Ingyenes")
 else:
     if eletkor < 18 and diak == True:
