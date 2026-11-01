@@ -1,6 +1,6 @@
 import random
 
-eletkor = 19
+eletkor = 65
 diak = True
 if eletkor <= 6:
     print("Ingyenes")
